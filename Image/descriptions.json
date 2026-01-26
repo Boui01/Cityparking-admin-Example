@@ -1,0 +1,18 @@
+{
+  "Login": {
+    "primary": 1,
+    "name": "หน้าเข้าสู่ระบบ (Login)",
+    "Login/login-หน้าล็อกอิน.png": {
+      "primary": 1,
+      "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
+      "en": "Login page for entering username and password to access Cityparking admin for administrators"
+    },
+    "Login/กำลังเข้าสู่ระบบ.png": {
+      "primary": 2,
+      "th": "หน้ากรอกข้อมูลแต่เป็นขั้นตอนกำลังเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
+      "en": "Login page for entering username and password to access Cityparking admin for administrators"
+    }
+  }
+    
+
+}
