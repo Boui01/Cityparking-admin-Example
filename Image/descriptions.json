@@ -7,12 +7,266 @@
       "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
       "en": "Login page for entering username and password to access Cityparking admin for administrators"
     },
-    "Login/กำลังเข้าสู่ระบบ.png": {
+    "Login/กำลังเข้าสู่ระบบ-login.png": {
       "primary": 2,
       "th": "หน้ากรอกข้อมูลแต่เป็นขั้นตอนกำลังเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
       "en": "Login page for entering username and password to access Cityparking admin for administrators"
     }
+  },
+  "Line-OA": {
+    "primary": 2,
+    "name": "หน้าแสดงข้อมูลสมาชิก Line OA",
+    "Line-OA/Line-oa-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-11.png": {
+      "primary": 11,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-12.png": {
+      "primary": 12,
+      "th": "--",
+      "en": "--"
+    }
+  },
+  "Invoice": {
+    "primary": 3,
+    "name": "หน้าแสดงข้อมูลใบเสนอราคา",
+    "Invoice/Invoice-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    }
+  },
+  "Register-parking": {
+    "primary": 4,
+    "name": "หน้าแสดงข้อมูลสมาชิกที่ลงทะเบียน",
+    "Register-parking/Register-parking-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-11.png": {
+      "primary": 11,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-12.png": {
+      "primary": 12,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-13.png": {
+      "primary": 13,
+      "th": "--",
+      "en": "--"
+    },
+    "Register-parking/Register-parking-14.png": {
+      "primary": 14,
+      "th": "--",
+      "en": "--"
+    }
+  },
+  "Customer-management": {
+    "primary": 5,
+    "name": "หน้าแสดงข้อมูลสมาชิกจุดจอดรถ",
+    "Customer-management/Customer-management-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-11.png": {
+      "primary": 11,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-12.png": {
+      "primary": 12,
+      "th": "--",
+      "en": "--"
+    }
   }
-    
-
 }
