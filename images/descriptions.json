@@ -16,119 +16,119 @@
   "Line-OA": {
     "primary": 2,
     "name": "หน้าแสดงข้อมูลสมาชิก Line OA",
-    "Line-OA/Line-oa-01.png": {
+    "Line-OA/หน้าแสดงข้อมูลสมาชิก-line-oa-ส่วนบน-dashboard.png": {
       "primary": 1,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลสมาชิก Line OA เกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติของสมาชิก Line OA",
+      "en": "Dashboard page for viewing statistics of Line OA members"
     },
-    "Line-OA/Line-oa-02.png": {
+    "Line-OA/หน้าแสดงข้อมูลสมาชิก-line-oa-ส่วนล่าง-ตาราง.png": {
       "primary": 2,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางสำหรับดูข้อมูลสมาชิก Line OA",
+      "en": "Table view page showing information of Line OA members"
     },
-    "Line-OA/Line-oa-03.png": {
+    "Line-OA/หน้าแสดงข้อมูลแบบกรอง-วันที่เริ่มต้น-วันที่สิ้นสุด.png": {
       "primary": 3,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามวันที่เริ่มต้นและวันที่สิ้นสุด",
+      "en": "Table view page showing information of Line OA members sorted by start and end dates"
     },
-    "Line-OA/Line-oa-04.png": {
+    "Line-OA/หน้าแสดงข้อมูลแบบกรองตามหัวตาราง.png": {
       "primary": 4,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามลำดับหัวตาราง",
+      "en": "Table view page showing information of Line OA members sorted by table headers"
     },
-    "Line-OA/Line-oa-05.png": {
+    "Line-OA/หน้าแสดงข้อมูลแบบกรอง-ประเภทภาษา.png": {
       "primary": 5,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามประเภทภาษา",
+      "en": "Table view page showing information of Line OA members sorted by language type"
     },
-    "Line-OA/Line-oa-06.png": {
+    "Line-OA/หน้าแสดงข้อมูลแบบกรองตามการค้นหา.png": {
       "primary": 6,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามการค้นหา",
+      "en": "Table view page showing information of Line OA members sorted by search"
     },
-    "Line-OA/Line-oa-07.png": {
+    "Line-OA/หน้าป็อปอัพแสดงรายละเอียดสมาชิก-line-oa.png": {
       "primary": 7,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าป็อปอัพแสดงรายละเอียดสมาชิก Line OA ในหมวดหมู่ข้อมูลส่วนตัว",
+      "en": "Popup page showing details of Line OA members in the personal information category"
     },
-    "Line-OA/Line-oa-08.png": {
+    "Line-OA/หน้าป็อปอัพแสดงรายละเอียดทะเบียนรถ-line-oa.png": {
       "primary": 8,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าป็อปอัพแสดงรายละเอียดทะเบียนสมาชิก Line OA ในหมวดหมู่ทะเบียนรถ",
+      "en": "Popup page showing details of Line OA members in the license plate category"
     },
-    "Line-OA/Line-oa-09.png": {
+    "Line-OA/หน้าป็อปอัพเพิ่มทะเบียนใหม่.png": {
       "primary": 9,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าป็อปอัพเพิ่มทะเบียนรถใหม่ของสมาชิก Line OA",
+      "en": "Popup page adding new license plate of Line OA members"
     },
-    "Line-OA/Line-oa-10.png": {
+    "Line-OA/หน้าป็อปอัพแก้ไขทะเบียน.png": {
       "primary": 10,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าป็อปอัพแก้ไขทะเบียนรถของสมาชิก Line OA",
+      "en": "Popup page editing license plate of Line OA members"
     },
-    "Line-OA/Line-oa-11.png": {
+    "Line-OA/หน้าป็อปอัพยืนยันการลบทะเบียนสมาชิก-line-oa.png": {
       "primary": 11,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าป็อปอัพยืนยันการลบทะเบียนรถของสมาชิก Line OA",
+      "en": "Popup page deleting license plate of Line OA members"
     },
-    "Line-OA/Line-oa-12.png": {
+    "Line-OA/หน้าแสดงป็อปอัพแสดงรายละเอียดบัตรจอดรถสมาชิก-line-oa.png": {
       "primary": 12,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าป็อปอัพแสดงรายละเอียดบัตรจอดรถของสมาชิก Line OA",
+      "en": "Popup page showing details of parking card of Line OA members"
     }
   },
   "Invoice": {
     "primary": 3,
     "name": "หน้าแสดงข้อมูลใบเสนอราคา",
-    "Invoice/Invoice-01.png": {
+    "Invoice/หน้าแสดงข้อมูลใบเสนอราคา-ส่วนบน-dashboard.png": {
       "primary": 1,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาเกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติการลงทะเบียนจอดรถ",
+      "en": "Dashboard page showing statistics of registered parking members"
     },
-    "Invoice/Invoice-02.png": {
+    "Invoice/หน้าแสดงข้อมูลใบเสนอราคา-ส่วนล่าง-ตาราง.png": {
       "primary": 2,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคา",
+      "en": "Table view page showing information of invoice"
     },
-    "Invoice/Invoice-03.png": {
+    "Invoice/หน้าแสดงข้อมูลแบบกรองตามหัวตาราง.png": {
       "primary": 3,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามเลขที่ใบเสนอราคาตามหัวตาราง",
+      "en": "Table view page showing information of invoice sorted by table headers"
     },
-    "Invoice/Invoice-04.png": {
+    "Invoice/หน้าแสดงข้อมูลแบบกรองตามประเภทการรอชำระ.png": {
       "primary": 4,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามประเภทการรอชำระ",
+      "en": "Table view page showing information of invoice sorted by payment pending type"
     },
-    "Invoice/Invoice-05.png": {
+    "Invoice/หน้าแสดงข้อมูลแบบกรองตามประเภทการชำระ.png": {
       "primary": 5,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามประเภทการชำระ",
+      "en": "Table view page showing information of invoice sorted by payment type"
     },
-    "Invoice/Invoice-06.png": {
+    "Invoice/หน้าแสดงข้อมูลแบบกรองตามยอดรวมขั้นต่ำ.png": {
       "primary": 6,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามยอดรวมขั้นต่ำ",
+      "en": "Table view page showing information of invoice sorted by minimum total amount"
     },
-    "Invoice/Invoice-07.png": {
+    "Invoice/หน้าแสดงข้อมูลแบบกรองตามยอดค้างชำระขั้นต่ำ.png": {
       "primary": 7,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามยอดค้างชำระขั้นต่ำ",
+      "en": "Table view page showing information of invoice sorted by minimum outstanding amount"
     },
-    "Invoice/Invoice-08.png": {
+    "Invoice/หน้าแสดงข้อมูลแบบกรองตามตัวค้นหา.png": {
       "primary": 8,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามตัวค้นหา",
+      "en": "Table view page showing information of invoice sorted by search"
     },
-    "Invoice/Invoice-09.png": {
+    "Invoice/หน้าแสดงข้อมูลรายละเอียดใบเสนอราคา-ส่วนบน.png": {
       "primary": 9,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลรายละเอียดใบเสนอราคา ส่วนบน",
+      "en": "Invoice details page - top section"
     },
-    "Invoice/Invoice-10.png": {
+    "Invoice/หน้าแสดงข้อมูลรายละเอียดใบเสนอราคา-ส่วนล่าง.png": {
       "primary": 10,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าแสดงข้อมูลรายละเอียดใบเสนอราคา ส่วนล่าง",
+      "en": "Invoice details page - bottom section"
     }
   },
   "Register-parking": {
