@@ -1,0 +1,266 @@
+{
+  "Login": {
+    "primary": 1,
+    "name": "หน้าเข้าสู่ระบบ (Login)",
+    "Login/login-หน้าล็อกอิน.png": {
+      "primary": 1,
+      "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
+      "en": "Login page for entering username and password to access Cityparking admin for administrators"
+    },
+    "Login/กำลังเข้าสู่ระบบ-login.png": {
+      "primary": 2,
+      "th": "หน้ากรอกข้อมูลแต่เป็นขั้นตอนกำลังเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
+      "en": "Login page for entering username and password to access Cityparking admin for administrators"
+    }
+  },
+  "Line-OA": {
+    "primary": 2,
+    "name": "หน้าแสดงข้อมูลสมาชิก Line OA",
+    "Line-OA/Line-oa-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-11.png": {
+      "primary": 11,
+      "th": "--",
+      "en": "--"
+    },
+    "Line-OA/Line-oa-12.png": {
+      "primary": 12,
+      "th": "--",
+      "en": "--"
+    }
+  },
+  "Invoice": {
+    "primary": 3,
+    "name": "หน้าแสดงข้อมูลใบเสนอราคา",
+    "Invoice/Invoice-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Invoice/Invoice-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    }
+  },
+  "Register-parking": {
+    "primary": 4,
+    "name": "หน้าแสดงข้อมูลสมาชิกที่ลงทะเบียน",
+    "Register-parking/หน้าแสดงข้อมูลลงทะเบียนจอดรถ-ส่วนบน-dashboard.png": {
+      "primary": 1,
+      "th": "หน้าแสดงข้อมูลสมาชิกที่ลงทะเบียนจอดรถเกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติการลงทะเบียนจอดรถ",
+      "en": "Dashboard page for viewing statistics of parking registrations"
+    },
+    "Register-parking/หน้าแสดงข้อมูลลงทะเบียนจอดรถ-ส่วนล่าง-ตาราง.png": {
+      "primary": 2,
+      "th": "หน้าแสดงข้อมูลแบบตารางของสมาชิกที่ลงทะเบียนจอดรถตามข้อมูลต่าง ๆ เช่น ชื่อ-นามสกุล, เบอร์โทรศัพท์, อีเมล, ประเภทรถ, ทะเบียนรถ, สถานะการชำระเงิน และอื่น ๆ",
+      "en": "Table view page showing information of parking registration members, including name, phone number, email, vehicle type, license plate, payment status, and more"
+    },
+    "Register-parking/หน้าแสดงข้อมูลแบบกรองตามหัวตาราง.png": {
+      "primary": 3,
+      "th": "หน้าแสดงข้อมูลแบบตารางของสมาชิกที่ลงทะเบียนจอดรถตามการกดกรองข้อมูลจากหัวตาราง เช่น กรองตามสถานะการชำระเงิน, กรองตามประเภทรถ, กรองตามช่วงเวลาการลงทะเบียน และอื่น ๆ",
+      "en": "Table view page showing filtered data of parking registration members based on table headers such as payment status, vehicle type, registration time range and others"
+    },
+    "Register-parking/หน้าแสดงข้อมูลแบบกรองค่าธรรมนียมขั้นต่ำ.png": {
+      "primary": 4,
+      "th": "หน้าแสดงข้อมูลแบบตารางของสมาชิกที่ลงทะเบียนจอดรถตามการกรอกข้อมูลจากค่าธรรมเนียมขั้นต่ำ เช่น กรองตามค่าธรรมเนียมขั้นต่ำ 10 บาท, กรองตามค่าธรรมเนียมขั้นต่ำ 20 บาท, กรองตามค่าธรรมเนียมขั้นต่ำ 30 บาท และอื่น ๆ",
+      "en": "Table view page showing filtered data of parking registration members based on minimum fee input such as filtering by minimum fee of 10 baht, 20 baht, 30 baht and others"
+    },
+    "Register-parking/หน้าแสดงข้อมูลแบบกรองตามการค้นหา.png": {
+      "primary": 5,
+      "th": "หน้าแสดงข้อมูลแบบตารางของสมาชิกที่ลงทะเบียนจอดรถตามการกรอกข้อมูลจากช่องค้นหา เช่น กรองตามชื่อ-นามสกุล, กรองตามเบอร์โทรศัพท์ และอื่น ๆ",
+      "en": "Table view page showing filtered data of parking registration members based on search input such as name, phone number and others"
+    },
+    "Register-parking/หน้าแสดงป็อปอัพรายละเอียด-ส่วนบน.png": {
+      "primary": 6,
+      "th": "หน้าแสดงป็อปอัพรายละเอียดของสมาชิกที่ลงทะเบียนจอดรถที่กดเลือก ในส่วนบนของหน้า",
+      "en": "Popup page showing details of a selected parking registration member, displayed in the upper part of the page"
+    },
+    "Register-parking/หน้าแสดงป็อปอัพรายละเอียด-ส่วนล่าง.png": {
+      "primary": 7,
+      "th": "หน้าแสดงป็อปอัพรายละเอียดของสมาชิกที่ลงทะเบียนจอดรถที่กดเลือก ในส่วนล่างของหน้า",
+      "en": "Bottom part of the popup detail page showing information of a selected parking registration member"
+    },
+    "Register-parking/หน้าสร้างข้อมูลลงทะเบียนจอดรถ-ส่วนบน.png": {
+      "primary": 8,
+      "th": "หน้าสร้างข้อมูลลงทะเบียนจอดรถสำหรับเพิ่มข้อมูลสมาชิกที่ลงทะเบียนจอดรถใหม่ ในส่วนบนของหน้า",
+      "en": "Page for creating new parking registration data for new members, displayed in the upper part of the page"
+    },
+    "Register-parking/หน้าแสดงป็อปอัพเพิ่มรายการเข้าตารางสมัคร.png": {
+      "primary": 9,
+      "th": "หน้าแสดงป็อปอัพเพิ่มรายการเข้าตารางสมัครสำหรับเพิ่มข้อมูลสมาชิกที่ลงทะเบียนจอดรถใหม่ ในส่วนของการเพิ่มข้อมูลลงในตารางสมัคร",
+      "en": "Popup page for adding new parking registration member data to the registration table"
+    },
+    "Register-parking/หน้าแสดงป็อปอัพเพิ่มทะเบียนรถเข้าสมาชิก.png": {
+      "primary": 10,
+      "th": "หน้าแสดงป็อปอัพเพิ่มทะเบียนรถเข้าสมาชิกสำหรับเพิ่มข้อมูลทะเบียนรถของสมาชิกที่ลงทะเบียนจอดรถใหม่ ในส่วนของการเพิ่มข้อมูลทะเบียนรถเข้าสมาชิก",
+      "en": "Popup page for adding vehicle registration data to a registered parking member"
+    },
+    "Register-parking/หน้าสร้างข้อมูลลงทะเบียนจอดรถ-ส่วนล่าง.png": {
+      "primary": 11,
+      "th": "หน้าสร้างข้อมูลลงทะเบียนจอดรถสำหรับเพิ่มข้อมูลสมาชิกที่ลงทะเบียนจอดรถใหม่ ในส่วนล่างของหน้า",
+      "en": "Page for creating new parking registration data for new members, displayed in the lower part of the page"
+    }
+  },
+  "Customer-management": {
+    "primary": 5,
+    "name": "หน้าแสดงข้อมูลสมาชิกจุดจอดรถ",
+    "Customer-management/Customer-management-01.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-02.png": {
+      "primary": 2,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-03.png": {
+      "primary": 3,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-04.png": {
+      "primary": 4,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-05.png": {
+      "primary": 5,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-06.png": {
+      "primary": 6,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-07.png": {
+      "primary": 7,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-08.png": {
+      "primary": 8,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-09.png": {
+      "primary": 9,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-10.png": {
+      "primary": 10,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-11.png": {
+      "primary": 11,
+      "th": "--",
+      "en": "--"
+    },
+    "Customer-management/Customer-management-12.png": {
+      "primary": 12,
+      "th": "--",
+      "en": "--"
+    }
+  },
+  "Vehicle-list": {
+    "primary": 6,
+    "name": "หน้าค้นหาข้อมูลทะเบียนรถ",
+    "Vehicle-list/หน้าสำหรับตรวจสอบข้อมูลของเจ้าของทะเบียน.png": {
+      "primary": 1,
+      "th": "--",
+      "en": "--"
+    }
+  }
+}
