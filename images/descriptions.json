@@ -1,7 +1,8 @@
 {
   "Login": {
     "primary": 1,
-    "name": "หน้าเข้าสู่ระบบ (Login)",
+    "nameTH": "หน้าเข้าสู่ระบบ (Login)",
+    "nameEN": "Login Page",
     "Login/login-หน้าล็อกอิน.png": {
       "primary": 1,
       "th": "หน้ากรอกข้อมูล username และ password เพื่อเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
@@ -10,12 +11,13 @@
     "Login/กำลังเข้าสู่ระบบ-login.png": {
       "primary": 2,
       "th": "หน้ากรอกข้อมูลแต่เป็นขั้นตอนกำลังเข้าสู่ระบบ Cityparking admin สำหรับผู้ดูแลระบบ",
-      "en": "Login page for entering username and password to access Cityparking admin for administrators"
+      "en": "Login page showing the loading state while accessing the Cityparking admin for administrators"
     }
   },
   "Transaction-parking": {
     "primary": 2,
-    "name": "หน้าจัดการข้อมูลการจอดรถ",
+    "nameTH": "หน้าจัดการข้อมูลการจอดรถ",
+    "nameEN": "Transaction Parking Page",
     "Transaction-parking/หน้าแสดงข้อมูลการจอดรถ-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลการจอดรถเกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติของการจอดรถ",
@@ -29,27 +31,27 @@
     "Transaction-parking/หน้าแสดงข้อมูลการจอดรถกรองตามประเภทสถานะ.png": {
       "primary": 3,
       "th": "หน้าแสดงข้อมูลการจอดรถในรูปแบบตารางแต่กรองตามประเภทสถานะของการจอดรถ",
-      "en": "Table view page showing information of parking transactions sorted by transaction status type"
+      "en": "Table view page showing information of parking transactions filtered by transaction status type"
     },
     "Transaction-parking/หน้าแสดงข้อมูลการจอดรถกรองตามสถานที่.png": {
       "primary": 4,
       "th": "หน้าแสดงข้อมูลการจอดรถในรูปแบบตารางแต่กรองตามสถานที่ของการจอดรถ",
-      "en": "Table view page showing information of parking transactions sorted by parking location"
+      "en": "Table view page showing information of parking transactions filtered by parking location"
     },
     "Transaction-parking/หน้าแสดงข้อมูลการจอดรถกรองตามจุดเข้าออก.png": {
       "primary": 5,
       "th": "หน้าแสดงข้อมูลการจอดรถในรูปแบบตารางแต่กรองตามจุดเข้าออกของการจอดรถ",
-      "en": "Table view page showing information of parking transactions sorted by entry and exit points"
+      "en": "Table view page showing information of parking transactions filtered by entry and exit points"
     },
     "Transaction-parking/หน้าแสดงข้อมูลการจอดรถกรองตามประเภทรถ.png": {
       "primary": 6,
       "th": "หน้าแสดงข้อมูลการจอดรถในรูปแบบตารางแต่กรองตามประเภทรถของการจอดรถ",
-      "en": "Table view page showing information of parking transactions sorted by vehicle type"
+      "en": "Table view page showing information of parking transactions filtered by vehicle type"
     },
     "Transaction-parking/หน้าแสดงข้อมูลการจอดรถกรองตามตัวค้นหา.png": {
       "primary": 7,
       "th": "หน้าแสดงข้อมูลการจอดรถในรูปแบบตารางแต่กรองข้อมูลตามตัวค้นหา เช่น กรองทะเบียน, จุดเข้า-ออก, บัตรสมาชิก และอื่น ๆ",
-      "en": "Table view page showing information of parking transactions sorted by search criteria such as license plate, entry and exit points, membership card, etc."
+      "en": "Table view page showing information of parking transactions filtered by search criteria such as license plate, entry and exit points, membership card, etc."
     },
     "Transaction-parking/หน้าป็อปอัพแก้ไขรายละเอียดข้อมูลทะเบียน.png": {
       "primary": 8,
@@ -74,12 +76,13 @@
     "Transaction-parking/หน้าป็อปอัพการทำรายการออกของข้อมูลการจอดรถ.png": {
       "primary": 12,
       "th": "หน้าป็อปอัพยืนยันข้อมูลการจอดรถที่เลือกทำรายการออก",
-      "en": "Popup page confirming the deletion of a selected parking transaction"
+      "en": "Popup page confirming the checkout of a selected parking transaction"
     }
   },
   "Ev-charger": {
     "primary": 3,
-    "name": "หน้าข้อมูลรายการชาร์จรถ EV charger",
+    "nameTH": "หน้าข้อมูลรายการชาร์จรถ EV charger",
+    "nameEN": "EV Charger Page",
     "Ev-charger/หน้าแสดงข้อมูลรายการชาร์จรถEV-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลรายการชาร์จรถ EV charger เกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติของการชาร์จรถ EV charger",
@@ -93,32 +96,32 @@
     "Ev-charger/หน้าแสดงข้อมูลรายการชาร์จรถEVกรองตามสถานที่.png": {
       "primary": 3,
       "th": "หน้าแสดงข้อมูลรายการชาร์จรถ EV charger ในรูปแบบตารางสำหรับดูข้อมูลการชาร์จรถ EV charger แต่กรองข้อมูลตามสถานที่ของการชาร์จรถ EV charger",
-      "en": "Table view page showing information of electric vehicle charging transactions sorted by charging station location"
+      "en": "Table view page showing information of electric vehicle charging transactions filtered by charging station location"
     },
     "Ev-charger/หน้าแสดงข้อมูลรายการชาร์จรถEVกรองตามรถเข้า-ออก.png": {
       "primary": 4,
       "th": "หน้าแสดงข้อมูลรายการชาร์จรถ EV charger ในรูปแบบตารางสำหรับดูข้อมูลการชาร์จรถ EV charger แต่กรองตามรถเข้า-ออกของการชาร์จรถ EV charger",
-      "en": "Table view page showing information of electric vehicle charging transactions sorted by vehicle type (entry/exit)"
+      "en": "Table view page showing information of electric vehicle charging transactions filtered by vehicle type (entry/exit)"
     },
     "Ev-charger/หน้าแสดงข้อมูลรายการชาร์จรถEVกรองตามประเภทสถานะ.png": {
       "primary": 5,
       "th": "หน้าแสดงข้อมูลรายการชาร์จรถ EV charger ในรูปแบบตารางสำหรับดูข้อมูลการชาร์จรถ EV charger แต่กรองข้อมูลตามประเภทสถานะของการชาร์จรถ EV charger",
-      "en": "Table view page showing information of electric vehicle charging transactions sorted by charging status type"
+      "en": "Table view page showing information of electric vehicle charging transactions filtered by charging status type"
     },
     "Ev-charger/หน้าแสดงข้อมูลรายการชาร์จรถEVกรองตามค่าบริดารขั้นต่ำ.png": {
       "primary": 6,
       "th": "หน้าแสดงข้อมูลรายการชาร์จรถ EV charger ในรูปแบบตารางสำหรับดูข้อมูลการชาร์จรถ EV charger แต่กรองข้อมูลตามค่าบริการขั้นต่ำของการชาร์จรถ EV charger",
-      "en": "Table view page showing information of electric vehicle charging transactions sorted by minimum service charge"
+      "en": "Table view page showing information of electric vehicle charging transactions filtered by minimum service charge"
     },
     "Ev-charger/หน้าแสดงข้อมูลรายการชาร์จรถEVกรองตามตัวค้นหาข้อมูล.png": {
       "primary": 7,
       "th": "หน้าแสดงข้อมูลรายการชาร์จรถ EV charger ในรูปแบบตารางสำหรับดูข้อมูลการชาร์จรถ EV charger แต่กรองข้อมูลตามตัวค้นหาข้อมูล เช่น กรองตามทะเบียนรถ, กรองตามสถานที่ชาร์จ และอื่น ๆ",
-      "en": "Table view page showing information of electric vehicle charging transactions sorted by search criteria"
+      "en": "Table view page showing information of electric vehicle charging transactions filtered by search criteria"
     },
     "Ev-charger/หน้าป็อปอัพแก้ไขทะเบียน.png": {
       "primary": 8,
       "th": "หน้าป็อปอัพแก้ไขทะเบียนรถของสมาชิก EV charger",
-      "en": "Popup page editing license plate of EV charger members"
+      "en": "Popup page for editing the license plate of EV charger members"
     },
     "Ev-charger/หน้าป็อปอัพแสดงรายละเอียดการชาร์จรถEV.png": {
       "primary": 9,
@@ -133,7 +136,8 @@
   },
   "Line-OA": {
     "primary": 4,
-    "name": "หน้าแสดงข้อมูลสมาชิก Line OA",
+    "nameTH": "หน้าแสดงข้อมูลสมาชิก Line OA",
+    "nameEN": "Line OA Page",
     "Line-OA/หน้าแสดงข้อมูลสมาชิก-line-oa-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลสมาชิก Line OA เกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติของสมาชิก Line OA",
@@ -147,22 +151,22 @@
     "Line-OA/หน้าแสดงข้อมูลแบบกรอง-วันที่เริ่มต้น-วันที่สิ้นสุด.png": {
       "primary": 3,
       "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามวันที่เริ่มต้นและวันที่สิ้นสุด",
-      "en": "Table view page showing information of Line OA members sorted by start and end dates"
+      "en": "Table view page showing information of Line OA members filtered by start and end dates"
     },
     "Line-OA/หน้าแสดงข้อมูลแบบกรองตามหัวตาราง.png": {
       "primary": 4,
       "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามลำดับหัวตาราง",
-      "en": "Table view page showing information of Line OA members sorted by table headers"
+      "en": "Table view page showing information of Line OA members filtered by table headers"
     },
     "Line-OA/หน้าแสดงข้อมูลแบบกรอง-ประเภทภาษา.png": {
       "primary": 5,
       "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามประเภทภาษา",
-      "en": "Table view page showing information of Line OA members sorted by language type"
+      "en": "Table view page showing information of Line OA members filtered by language type"
     },
     "Line-OA/หน้าแสดงข้อมูลแบบกรองตามการค้นหา.png": {
       "primary": 6,
       "th": "หน้าแสดงข้อมูลสมาชิก Line OA ในรูปแบบตารางข้อมูลสมาชิก Line OA แต่กรองข้อมูลตามการค้นหา",
-      "en": "Table view page showing information of Line OA members sorted by search"
+      "en": "Table view page showing information of Line OA members filtered by search"
     },
     "Line-OA/หน้าป็อปอัพแสดงรายละเอียดสมาชิก-line-oa.png": {
       "primary": 7,
@@ -177,27 +181,28 @@
     "Line-OA/หน้าป็อปอัพเพิ่มทะเบียนใหม่.png": {
       "primary": 9,
       "th": "หน้าป็อปอัพเพิ่มทะเบียนรถใหม่ของสมาชิก Line OA",
-      "en": "Popup page adding new license plate of Line OA members"
+      "en": "Popup page for adding a new license plate of Line OA members"
     },
     "Line-OA/หน้าป็อปอัพแก้ไขทะเบียน.png": {
       "primary": 10,
       "th": "หน้าป็อปอัพแก้ไขทะเบียนรถของสมาชิก Line OA",
-      "en": "Popup page editing license plate of Line OA members"
+      "en": "Popup page for editing the license plate of Line OA members"
     },
     "Line-OA/หน้าป็อปอัพยืนยันการลบทะเบียนสมาชิก-line-oa.png": {
       "primary": 11,
       "th": "หน้าป็อปอัพยืนยันการลบทะเบียนรถของสมาชิก Line OA",
-      "en": "Popup page deleting license plate of Line OA members"
+      "en": "Popup page for deleting the license plate of Line OA members"
     },
     "Line-OA/หน้าแสดงป็อปอัพแสดงรายละเอียดบัตรจอดรถสมาชิก-line-oa.png": {
       "primary": 12,
       "th": "หน้าป็อปอัพแสดงรายละเอียดบัตรจอดรถของสมาชิก Line OA",
-      "en": "Popup page showing details of parking card of Line OA members"
+      "en": "Popup page showing the parking card details of Line OA members"
     }
   },
   "Invoice": {
     "primary": 5,
-    "name": "หน้าแสดงข้อมูลใบเสนอราคา",
+    "nameTH": "หน้าแสดงข้อมูลใบเสนอราคา",
+    "nameEN": "Invoice Page",
     "Invoice/หน้าแสดงข้อมูลใบเสนอราคา-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาเกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติการลงทะเบียนจอดรถ",
@@ -211,32 +216,32 @@
     "Invoice/หน้าแสดงข้อมูลแบบกรองตามหัวตาราง.png": {
       "primary": 3,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามเลขที่ใบเสนอราคาตามหัวตาราง",
-      "en": "Table view page showing information of invoice sorted by table headers"
+      "en": "Table view page showing information of invoice filtered by table headers"
     },
     "Invoice/หน้าแสดงข้อมูลแบบกรองตามประเภทการรอชำระ.png": {
       "primary": 4,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามประเภทการรอชำระ",
-      "en": "Table view page showing information of invoice sorted by payment pending type"
+      "en": "Table view page showing information of invoice filtered by payment pending type"
     },
     "Invoice/หน้าแสดงข้อมูลแบบกรองตามประเภทการชำระ.png": {
       "primary": 5,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามประเภทการชำระ",
-      "en": "Table view page showing information of invoice sorted by payment type"
+      "en": "Table view page showing information of invoice filtered by payment type"
     },
     "Invoice/หน้าแสดงข้อมูลแบบกรองตามยอดรวมขั้นต่ำ.png": {
       "primary": 6,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามยอดรวมขั้นต่ำ",
-      "en": "Table view page showing information of invoice sorted by minimum total amount"
+      "en": "Table view page showing information of invoice filtered by minimum total amount"
     },
     "Invoice/หน้าแสดงข้อมูลแบบกรองตามยอดค้างชำระขั้นต่ำ.png": {
       "primary": 7,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามยอดค้างชำระขั้นต่ำ",
-      "en": "Table view page showing information of invoice sorted by minimum outstanding amount"
+      "en": "Table view page showing information of invoice filtered by minimum outstanding amount"
     },
     "Invoice/หน้าแสดงข้อมูลแบบกรองตามตัวค้นหา.png": {
       "primary": 8,
       "th": "หน้าแสดงข้อมูลใบเสนอราคาในรูปแบบตารางของข้อมูลใบเสนอราคาแต่กรองข้อมูลตามตัวค้นหา",
-      "en": "Table view page showing information of invoice sorted by search"
+      "en": "Table view page showing information of invoice filtered by search"
     },
     "Invoice/หน้าแสดงข้อมูลรายละเอียดใบเสนอราคา-ส่วนบน.png": {
       "primary": 9,
@@ -256,23 +261,24 @@
     "Invoice/หน้าป็อปอัพเพิ่มรายการสำหรับใบแจ้งหนี้.png": {
       "primary": 12,
       "th": "หน้าป็อปอัพเพิ่มรายการสำหรับใบแจ้งหนี้สำหรับเพิ่มรายการสินค้าและบริการในใบเสนอราคา",
-      "en": "Popup page for adding items to an new invoice page"
+      "en": "Popup page for adding items to a new invoice"
     }
   },
   "Revenue-add": {
     "primary": 6,
-    "name": "หน้าแสดงข้อมูลรายได้",
+    "nameTH": "หน้าแสดงข้อมูลรายได้",
+    "nameEN": "Revenue Page",
     "Revenue-add/หน้าแสดงข้อมูลรายได้-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติของรายได้",
       "en": "Dashboard page for viewing statistics of revenue"
     },
-   "Revenue-add/หน้าแสดงข้อมูลรายได้-ส่วนล่าง-ตาราง.png": {
+    "Revenue-add/หน้าแสดงข้อมูลรายได้-ส่วนล่าง-ตาราง.png": {
       "primary": 2,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับตารางสำหรับดูข้อมูลรายได้ตามรายการ",
       "en": "Table view page showing revenue information by item"
     },
-   "Revenue-add/หน้าแสดงข้อมูลรายได้กรองตามหัวตาราง.png": {
+    "Revenue-add/หน้าแสดงข้อมูลรายได้กรองตามหัวตาราง.png": {
       "primary": 3,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับตารางสำหรับดูข้อมูลรายได้ตามรายการแต่กรองข้อมูลตามหัวตาราง",
       "en": "Table view page showing revenue information filtered by table headers"
@@ -296,26 +302,27 @@
       "primary": 7,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับตารางสำหรับดูข้อมูลรายได้ตามรายการแต่กรองข้อมูลตามจำนวนเงินขั้นต่ำ",
       "en": "Table view page showing revenue information filtered by minimum amount"
-     },
+    },
     "Revenue-add/หน้าแสดงข้อมูลรายได้กรองตามตัวค้นหา.png": {
       "primary": 8,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับตารางสำหรับดูข้อมูลรายได้ตามรายการแต่กรองข้อมูลตามตัวค้นหา",
       "en": "Table view page showing revenue information filtered by search"
-     },
+    },
     "Revenue-add/หน้าสร้างข้อมูลรายได้ใหม่-ส่วนบน.png": {
       "primary": 9,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับการสร้างข้อมูลรายได้ใหม่ ในส่วนบนของหน้า",
       "en": "Page for creating new revenue information in the upper part of the screen"
-     },
+    },
     "Revenue-add/หน้าสร้างข้อมูลรายได้ใหม่-ส่วนล่าง.png": {
       "primary": 10,
       "th": "หน้าแสดงข้อมูลรายได้เกี่ยวกับการสร้างข้อมูลรายได้ใหม่ ในส่วนล่างของหน้า",
       "en": "Page for creating new revenue information in the lower part of the screen"
-     }
+    }
   },
   "Register-parking": {
     "primary": 7,
-    "name": "หน้าแสดงข้อมูลสมาชิกที่ลงทะเบียน",
+    "nameTH": "หน้าแสดงข้อมูลสมาชิกที่ลงทะเบียน",
+    "nameEN": "Register Parking Page",
     "Register-parking/หน้าแสดงข้อมูลลงทะเบียนจอดรถ-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลสมาชิกที่ลงทะเบียนจอดรถเกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติการลงทะเบียนจอดรถ",
@@ -374,7 +381,8 @@
   },
   "Customer-management": {
     "primary": 8,
-    "name": "หน้าจัดการข้อมูลสมาชิกลูกค้า",
+    "nameTH": "หน้าจัดการข้อมูลสมาชิกลูกค้า",
+    "nameEN": "Customer Management Page",
     "Customer-management/หน้าแสดงจัดการข้อมูลลูกค้า-ส่วนบน-dashboard.png": {
       "primary": 1,
       "th": "หน้าแสดงข้อมูลสมาชิกลูกค้าเกี่ยวกับแดชบอร์ดสำหรับดูข้อมูลสถิติของสมาชิกลูกค้า",
@@ -438,11 +446,12 @@
   },
   "Vehicle-list": {
     "primary": 9,
-    "name": "หน้าค้นหาข้อมูลทะเบียนรถ",
+    "nameTH": "หน้าค้นหาข้อมูลทะเบียนรถ",
+    "nameEN": "License Plate List Page",
     "Vehicle-list/หน้าสำหรับตรวจสอบข้อมูลของเจ้าของทะเบียน.png": {
       "primary": 1,
-      "th": "--",
-      "en": "--"
+      "th": "หน้าสำหรับตรวจสอบข้อมูลของเจ้าของทะเบียน ใช้สำหรับตรวจสอบข้อมูลของทะเบียนรถแบบละเอียด",
+      "en": "Page for checking information of the license plate owner. Used to check detailed information of the license plate."
     }
   }
 }
